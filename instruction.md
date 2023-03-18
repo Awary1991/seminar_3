@@ -67,3 +67,5 @@
 >**git branch -M main** - переименование ветки Master в ветку Main
 
 >**git push -u origin main** 
+
+>**git clone** - склонировать удаленный репозиторий на ваш аккаунт
